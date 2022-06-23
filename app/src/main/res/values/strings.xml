@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">Laundry</string>
+    <string name="ubah">UBAH</string>
+    <string name="nama_laundry">Nama Laundry</string>
+    <string name="alamat_laundry">Alamat Laundry</string>
+    <string name="telepon_laundry">Telepon Laundry</string>
+    <string name="ubahdata_laundry">Ubah Data Laundry</string>
+
+    <string name="tambahdata_laundry">Tambah Data Laundry</string>
+    <string name="simpan">SIMPAN</string>
+
+    <string name="pilih_operasi">Pilih Operasi yang Akan Dilakukan</string>
+    <string name="perhatian">PERHATIAN</string>
+    <string name="hapus">Hapus</string>
+
+    <string name="judul" translatable="false">Yuk Laundry</string>
+
 </resources>

@@ -4,9 +4,12 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/ANGKI/SEMESTER 4/PPAB 2/final project/Laundry-main/app/src/main/res/drawable/laundry.xml" value="0.14427083333333332" />
-        <entry key="..\:/ANGKI/SEMESTER 4/PPAB 2/final project/Laundry-main/app/src/main/res/layout/activity_main.xml" value="0.12364130434782608" />
+        <entry key="..\:/ANGKI/SEMESTER 4/PPAB 2/final project/Laundry-main/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/ANGKI/SEMESTER 4/PPAB 2/final project/Laundry-main/app/src/main/res/layout/activity_splash_screen.xml" value="0.14" />
         <entry key="..\:/ANGKI/SEMESTER 4/PPAB 2/final project/Laundry-main/app/src/main/res/layout/activity_splash_sreen.xml" value="0.18" />
         <entry key="..\:/ANGKI/SEMESTER 4/PPAB 2/final project/Laundry-main/app/src/main/res/layout/activity_tambah.xml" value="0.22" />
+        <entry key="..\:/ANGKI/SEMESTER 4/PPAB 2/final project/Laundry-main/app/src/main/res/layout/activity_ubah.xml" value="0.25" />
+        <entry key="..\:/ANGKI/SEMESTER 4/PPAB 2/final project/Laundry-main/app/src/main/res/layout/card_item.xml" value="0.15729166666666666" />
         <entry key="..\:/Android 2/LaundryPalembang-main/Laundry/app/src/main/res/layout/activity_main.xml" value="0.18" />
         <entry key="..\:/Android 2/LaundryPalembang-main/Laundry/app/src/main/res/layout/activity_tambah.xml" value="0.1" />
         <entry key="..\:/Android 2/LaundryPalembang-main/Laundry/app/src/main/res/layout/activity_ubah.xml" value="0.1" />

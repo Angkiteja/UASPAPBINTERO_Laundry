@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Laundry</string>
+    <string name="ubah">CHANGE</string>
+    <string name="nama_laundry">Laundry Name</string>
+    <string name="alamat_laundry">Laundry address</string>
+    <string name="telepon_laundry">Laundry Phone</string>
+    <string name="ubahdata_laundry">Change Laundry Data</string>
+    <string name="tambahdata_laundry">Add Laundry Data</string>
+    <string name="simpan">SAVE</string>
+    <string name="pilih_operasi">Select the Operation to be Performed</string>
+    <string name="perhatian">WARNING</string>
+    <string name="hapus">Delete</string>
+</resources>

@@ -77,14 +77,14 @@ public class AdapterData extends RecyclerView.Adapter<AdapterData.HolderData>{
                 @Override
                 public boolean onLongClick(View view) {
                     AlertDialog.Builder dialogPesan = new AlertDialog.Builder(ctx);
-                    dialogPesan.setMessage("Pilih Operasi yang Akan Dilakukan");
-                    dialogPesan.setTitle("Perhatian");
+                    dialogPesan.setMessage(R.string.pilih_operasi);
+                    dialogPesan.setTitle(R.string.perhatian);
                     dialogPesan.setIcon(R.mipmap.ic_launcher_round);
                     dialogPesan.setCancelable(true);
 
                     idLaundry = Integer.parseInt(tvId.getText().toString());
 
-                    dialogPesan.setPositiveButton("Hapus", new DialogInterface.OnClickListener() {
+                    dialogPesan.setPositiveButton(R.string.hapus, new DialogInterface.OnClickListener() {
                         @Override
                         public void onClick(DialogInterface dialogInterface, int i) {
                             deleteData();
@@ -99,7 +99,7 @@ public class AdapterData extends RecyclerView.Adapter<AdapterData.HolderData>{
                         }
                     });
 
-                    dialogPesan.setNegativeButton("Ubah", new DialogInterface.OnClickListener() {
+                    dialogPesan.setNegativeButton(R.string.ubah, new DialogInterface.OnClickListener() {
                         @Override
                         public void onClick(DialogInterface dialogInterface, int i) {
                             getData();

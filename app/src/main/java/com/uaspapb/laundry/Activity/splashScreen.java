@@ -1,4 +1,4 @@
-package com.uaspapb.laundry;
+package com.uaspapb.laundry.Activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -11,7 +11,7 @@ import android.view.animation.AnimationUtils;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.uaspapb.laundry.Activity.MainActivity;
+import com.uaspapb.laundry.R;
 
 public class splashScreen extends AppCompatActivity {
     ImageView logo;

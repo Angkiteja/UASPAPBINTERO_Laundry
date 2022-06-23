@@ -40,13 +40,13 @@ public class TambahActivity extends AppCompatActivity {
                 telepon = etTelepon.getText().toString();
 
                 if(nama.trim().equals("")){
-                    etNama.setError("Nama Harus Diisi");
+                    etNama.setError(getString(R.string.nama_harus_diisi));
                 }
                 else if(alamat.trim().equals("")){
-                    etAlamat.setError("Alamat Harus Diisi");
+                    etAlamat.setError(getString(R.string.alamat_harus_diisi));
                 }
                 else if(telepon.trim().equals("")){
-                    etTelepon.setError("Telepon Harus Diisi");
+                    etTelepon.setError(getString(R.string.telepon_harus_diisi));
                 }
                 else{
                     createData();

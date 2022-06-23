@@ -15,4 +15,8 @@
 
     <string name="judul" translatable="false">Yuk Laundry</string>
 
+    <string name="nama_harus_diisi">Nama Harus Diisi</string>
+    <string name="alamat_harus_diisi">Alamat Harus Diisi</string>
+    <string name="telepon_harus_diisi">Telepon Harus Diisi</string>
+
 </resources>

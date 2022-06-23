@@ -11,4 +11,7 @@
     <string name="pilih_operasi">Select the Operation to be Performed</string>
     <string name="perhatian">WARNING</string>
     <string name="hapus">Delete</string>
+    <string name="nama_harus_diisi">Name Cannot be Null</string>
+    <string name="alamat_harus_diisi">Address Cannot be Null</string>
+    <string name="telepon_harus_diisi">Phone Cannot be Null</string>
 </resources>
